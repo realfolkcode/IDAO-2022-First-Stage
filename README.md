@@ -18,4 +18,4 @@ Open the Google Colab notebook, load models from this repository to Colab's VM a
 
 ## Solution Idea
 
-![image](https://user-images.githubusercontent.com/64730991/158696474-3c4d791c-3959-4cc2-9bbc-8a4e5e718e78.png)
+![image](https://user-images.githubusercontent.com/64730991/158696657-47ea610b-21e9-4ddd-93ea-77cd458df1e3.png)
