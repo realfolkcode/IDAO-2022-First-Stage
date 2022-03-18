@@ -8,6 +8,8 @@
 
 ## Results
 
+9-th place in Track 1
+
 First track: 0.837/1.000
 
 ## Guideline
